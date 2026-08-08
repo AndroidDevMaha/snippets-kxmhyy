@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://AndroidDevMaha.github.io/snippets-kxmhyy/sitemap.xml
